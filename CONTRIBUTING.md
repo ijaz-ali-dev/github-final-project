@@ -1,5 +1,5 @@
 
-# Contributing for this distribution
+# Contributing for this distribution  is governed by a BSD-style license that can behavior.
 #All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 When contributing a major change to this repository, please first discuss the
